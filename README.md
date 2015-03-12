@@ -10,6 +10,8 @@ A rate limit controller for preventing excessive actions.
 ```swift
 // In your ViewController...
 
+import RateLimit
+
 override func viewDidLoad() {
     super.viewDidLoad()
 
@@ -24,6 +26,8 @@ func checkForUpdates() {
     button.enabled = !rateLimit.exceeded
 }
 ```
+
+See [demo app](https://github.com/questbeat/RateLimit/tree/master/RateLimitDemo) for more details.
 
 
 ## License
