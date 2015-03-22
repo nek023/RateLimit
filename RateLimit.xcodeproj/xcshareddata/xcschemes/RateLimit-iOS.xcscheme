@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AAD1C4871AB0A175003DC046"
+               BlueprintIdentifier = "AA16E13C1ABE733F0071B339"
                BuildableName = "RateLimit.framework"
-               BlueprintName = "RateLimit"
-               ReferencedContainer = "container:RateLimit.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AAD1C4921AB0A175003DC046"
-               BuildableName = "RateLimitTests.xctest"
-               BlueprintName = "RateLimitTests"
+               BlueprintName = "RateLimit-iOS"
                ReferencedContainer = "container:RateLimit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AAD1C4921AB0A175003DC046"
-               BuildableName = "RateLimitTests.xctest"
-               BlueprintName = "RateLimitTests"
+               BlueprintIdentifier = "AA16E1461ABE733F0071B339"
+               BuildableName = "RateLimit-iOSTests.xctest"
+               BlueprintName = "RateLimit-iOSTests"
                ReferencedContainer = "container:RateLimit.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -56,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AAD1C4871AB0A175003DC046"
+            BlueprintIdentifier = "AA16E13C1ABE733F0071B339"
             BuildableName = "RateLimit.framework"
-            BlueprintName = "RateLimit"
+            BlueprintName = "RateLimit-iOS"
             ReferencedContainer = "container:RateLimit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -75,9 +61,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AAD1C4871AB0A175003DC046"
+            BlueprintIdentifier = "AA16E13C1ABE733F0071B339"
             BuildableName = "RateLimit.framework"
-            BlueprintName = "RateLimit"
+            BlueprintName = "RateLimit-iOS"
             ReferencedContainer = "container:RateLimit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -93,9 +79,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AAD1C4871AB0A175003DC046"
+            BlueprintIdentifier = "AA16E13C1ABE733F0071B339"
             BuildableName = "RateLimit.framework"
-            BlueprintName = "RateLimit"
+            BlueprintName = "RateLimit-iOS"
             ReferencedContainer = "container:RateLimit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
